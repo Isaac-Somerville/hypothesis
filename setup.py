@@ -37,7 +37,7 @@ _install_requires = [
     "numpy",
     "pandas",
     "scipy",
-    "sklearn",
+    "scikit-learn",
     "torch"
 ]
 
